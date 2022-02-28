@@ -1,6 +1,6 @@
 import { useEffect } from "react";
-import { Welcome } from "./components/Welcome";
-import classes from "./App.module.scss";
+import { Welcome } from "components/Welcome";
+import classes from "src/App.module.scss";
 
 export const App = () => {
   useEffect(() => {
