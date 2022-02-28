@@ -1,8 +1,8 @@
 # react-webpack-bootstrap
 
-## Bootstrap a non CRA React application
+### Bootstrap a non CRA React application
 
-# This setup makes use of:
+### This setup makes use of:
 
 - Webpack, babel to bootstrap a react app
 - Consists of 2 webpack config files for prod and dev each
